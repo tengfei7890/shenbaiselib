@@ -1,0 +1,6 @@
+mvn archetype:create -DgroupId=org.mjz -DartifactId=ioc
+
+Google ’ ªß
+_x518
+∏ˆ»Àblog
+http://read-mo.blogspot.com

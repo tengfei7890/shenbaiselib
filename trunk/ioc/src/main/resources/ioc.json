@@ -1,0 +1,5 @@
+[
+{"id":"service1","class":"org.A","scope":"singleton"},
+{"id":"service2","class":"org.A","scope":"prototype"},
+{"id":"service3","class":"org.A","scope":"5-15"}
+]
